@@ -8,6 +8,5 @@
 
 <div style="display:flex;">
 <img src="https://github-readme-stats.vercel.app/api?username=ozcanovunc&theme=radical">
-<img width=250 hspace="10">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanovunc&theme=radical&layout=compact">
 </div>
