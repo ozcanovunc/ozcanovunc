@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ozcanovunc/ozcanovunc/master/wave.gif" width="30px"> Hi there!
 
-- 👨‍💻 I work for Garanti BBVA Technology
+- 👨‍💻 I work for Emirates NBD
 - 🏃 I’m currently working on something cool
 - 💬 Ask me about anything, I'm happy to help
 
